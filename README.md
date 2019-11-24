@@ -1,2 +1,2 @@
 # Movie_Recomendation
-Tried for building a recomendation System
+Try building a recomendation System
